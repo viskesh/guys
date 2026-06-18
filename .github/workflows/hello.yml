@@ -1,0 +1,10 @@
+name: My GitHub Action
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 24f3002870@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
